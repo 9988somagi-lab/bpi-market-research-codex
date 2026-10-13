@@ -1,0 +1,260 @@
+[
+  {
+    "id": "D01",
+    "url": "https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles-over-10-years",
+    "status": 200,
+    "bytes": 39549,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "0f81cb23ecc5669e965f5a2bbaa9ec7e56adad893f002728edb5962733acd072"
+  },
+  {
+    "id": "D02",
+    "url": "https://ifr.org/ifr-press-releases/news/service-robots-see-global-growth-boom",
+    "status": 200,
+    "bytes": 34060,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "2bb3ee32878e5a5335b7d71dc169e27490ff2ab8c0284d4afb03ae24a7864748"
+  },
+  {
+    "id": "D03",
+    "url": "https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035",
+    "status": 200,
+    "bytes": 632127,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "a9b7df0904e343bc9e28e5ea48eb66d3ee9e46e8b9401b36c925c9383c9c4acb"
+  },
+  {
+    "id": "D06",
+    "url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+    "status": 200,
+    "bytes": 37040,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "9a0a3201d80a5fc134638808d56f04b34eaa5d7f9bd31efc5beffffc661ea4f7"
+  },
+  {
+    "id": "D07",
+    "url": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent",
+    "status": 200,
+    "bytes": 32628,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "14dd887653677fd601f0af546eb35a2cd0e6bf88757e5da7d2219cbda49c280e"
+  },
+  {
+    "id": "D08",
+    "url": "https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026",
+    "status": 200,
+    "bytes": 35002,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "dd080e747a304e0d99b655e396a51c2a3998e84927b202d7a78c5e0d4a93261b"
+  },
+  {
+    "id": "D10",
+    "url": "https://ifr.org/downloads/press_docs/Market_Presentation_WR_Press_Conference_2026.pdf",
+    "status": 200,
+    "bytes": 4532855,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "b2b287bdafada3c888a8d1814165a190da04b53096b61444e38f1db41742791a"
+  },
+  {
+    "id": "D11",
+    "url": "https://ifr.org/downloads/press_docs/PressConference2025_presentation.pdf",
+    "status": 200,
+    "bytes": 3284259,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "1b722c779d18fe23a0a1c7a1595e72446ab84c52e526e468cc8ac0f76f86ac33"
+  },
+  {
+    "id": "D12",
+    "url": "https://www.unitree.com/g1",
+    "status": 200,
+    "bytes": 62105,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "922d453a900bfa7073ff20dec46ef8f6b84d2a56f7d77c23d04024788117e59b"
+  },
+  {
+    "id": "D13",
+    "url": "https://www.unitree.com/go2",
+    "status": 200,
+    "bytes": 72843,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "b43c47935c525bdfb29a47fb4291f1de0ce58d31e8f83b9ef98c4a7f8d803722"
+  },
+  {
+    "id": "D14",
+    "url": "https://www.unitree.com/b2",
+    "status": 200,
+    "bytes": 55463,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "6f018595e1cc45ec655b6bb6ad8544f3213037d85485aad7ffe6fed32ad8e98e"
+  },
+  {
+    "id": "D17",
+    "url": "https://www.agilityrobotics.com/",
+    "status": 200,
+    "bytes": 156802,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "f4a8849fe58c30ede07bd897a8dd57d216d5f8c70740a1cd63f110afa690ef28"
+  },
+  {
+    "id": "D21",
+    "url": "https://comtradeapi.un.org/files/v1/app/reference/Reporters.json",
+    "status": 200,
+    "bytes": 80831,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "f2a1d78949089831c1fc7714e009996887db724a8d5a43379cdc37be9449f74b"
+  },
+  {
+    "id": "D23",
+    "url": "https://comtradeapi.un.org/files/v1/app/reference/QuantityUnits.json",
+    "status": 200,
+    "bytes": 4579,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "420267929eac391e9dcd97d18252a2aee9bff2a86c3e2162d1ec57ef53811c24"
+  },
+  {
+    "id": "D26",
+    "url": "https://www.figure.ai/news/production-at-bmw",
+    "status": 200,
+    "bytes": 42412,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "e75c30d4a2e5ca0a6dfdcd2ec1740cedf5bbf53dc5ac65cd3d89745902b0571a"
+  },
+  {
+    "id": "D27",
+    "url": "https://www.figure.ai/news/f-03-at-bmw",
+    "status": 200,
+    "bytes": 35804,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "bc8b4c8a583dcbfa315ecbaa1a0d2fe148492deb15a09a1c4d29b77afbe10bdf"
+  },
+  {
+    "id": "D28",
+    "url": "https://www.figure.ai/news/ramping-figure-03-production",
+    "status": 200,
+    "bytes": 54944,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "c4f452976282c5202350fe5d66be262e99c214a042579e8ec5a69221ee9c2b72"
+  },
+  {
+    "id": "D29",
+    "url": "https://www.agilityrobotics.com/solutions/digit-5",
+    "status": 200,
+    "bytes": 332462,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "920237e2a1b9eb668695ba16514db65c2f02628b612c624c0938f45b11d51837"
+  },
+  {
+    "id": "T06",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=847950&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "access_date": "2026-10-13（北京时间）",
+    "year": 2025,
+    "hs": "847950",
+    "flow": "M",
+    "status": 200,
+    "count": 110,
+    "sha256": "fdf201bec3f9db5f12285752d974aedc94ca07ae2579e06196a358b118f433cf"
+  },
+  {
+    "id": "T07",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=847950&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "access_date": "2026-10-13（北京时间）",
+    "year": 2024,
+    "hs": "847950",
+    "flow": "X",
+    "status": 200,
+    "count": 93,
+    "sha256": "f30cca65bc500502265cbd282dc41d407d013378b0385e79aacd410722c7e1d5"
+  },
+  {
+    "id": "T08",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=847950&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "access_date": "2026-10-13（北京时间）",
+    "year": 2024,
+    "hs": "847950",
+    "flow": "M",
+    "status": 200,
+    "count": 138,
+    "sha256": "94cb82d7666766c65fac7401c87c78e0d6e8e5939abfd7e5ab85db104a13b5e3"
+  },
+  {
+    "id": "T09",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=850760&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "access_date": "2026-10-13（北京时间）",
+    "year": 2025,
+    "hs": "850760",
+    "flow": "X",
+    "status": 200,
+    "count": 106,
+    "sha256": "dbd1b54816bf31a8ccdc9be4e720110f1b534722f274c6f3d3f54658bb1acc5d"
+  },
+  {
+    "id": "T10",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=850760&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "access_date": "2026-10-13（北京时间）",
+    "year": 2025,
+    "hs": "850760",
+    "flow": "M",
+    "status": 200,
+    "count": 117,
+    "sha256": "14fb2dfc566e896815dd721e4ce831c79a6364aee57a9956a3ea49e72eda5ecd"
+  },
+  {
+    "id": "T11",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=850760&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "access_date": "2026-10-13（北京时间）",
+    "year": 2024,
+    "hs": "850760",
+    "flow": "X",
+    "status": 200,
+    "count": 124,
+    "sha256": "4c393221ac8896cd838a152364cf1b93b95da8959cfdb00e1a1c318ba4baa438"
+  },
+  {
+    "id": "T05",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=847950&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "status": 200,
+    "count": 79,
+    "access_date": "2026-10-13（北京时间）",
+    "sha256": "5368594aa8f73f02b2879d55c362a7c1ff8bd1b0ceb8c8dbe946aabab6dc50cd"
+  },
+  {
+    "id": "S01",
+    "title": "Boston Dynamics Spot 电气接口",
+    "status": "已在线读取",
+    "access_date": "2026-10-13（北京时间）",
+    "commit": "04537ddafe0641d1751af3eb9e76cb785fc18594",
+    "url": "https://raw.githubusercontent.com/boston-dynamics/spot-sdk/04537ddafe0641d1751af3eb9e76cb785fc18594/docs/payload/robot_electrical_interface.md",
+    "sha256": "491fbf52bfcaa796a533b6bd713b1992f33363db1593d6a1920316088d8c35aa",
+    "type": "一手技术/研发资料"
+  },
+  {
+    "id": "S02",
+    "title": "Boston Dynamics Spot 电池状态协议",
+    "status": "已在线读取",
+    "access_date": "2026-10-13（北京时间）",
+    "commit": "04537ddafe0641d1751af3eb9e76cb785fc18594",
+    "url": "https://raw.githubusercontent.com/boston-dynamics/spot-sdk/04537ddafe0641d1751af3eb9e76cb785fc18594/protos/bosdyn/api/robot_state.proto",
+    "sha256": "678766f6928b568cc7857b328bb32319a866feed10b3ea74954107fd3b2840c3",
+    "type": "一手技术/研发资料"
+  },
+  {
+    "id": "S04",
+    "title": "Unitree BMS 状态消息",
+    "status": "已在线读取",
+    "access_date": "2026-10-13（北京时间）",
+    "commit": "668d1ec5a05d1c38d3306bdca7d59f2ba3581a88",
+    "url": "https://raw.githubusercontent.com/unitreerobotics/unitree_ros2/668d1ec5a05d1c38d3306bdca7d59f2ba3581a88/cyclonedds_ws/src/unitree/unitree_go/msg/BmsState.msg",
+    "sha256": "0f7ad8e09f8fd02999da9aa222ab0ecb848d9f70136af78a5ec7a10631959828",
+    "type": "一手技术/研发资料"
+  },
+  {
+    "id": "S08",
+    "title": "Husarion UGV 电池监测",
+    "status": "已在线读取",
+    "access_date": "2026-10-13（北京时间）",
+    "commit": "559e784b84c05c813b6ecfce02751d8b3966528a",
+    "url": "https://raw.githubusercontent.com/husarion/husarion_ugv_ros/559e784b84c05c813b6ecfce02751d8b3966528a/husarion_ugv_battery/README.md",
+    "sha256": "5905be7e9a5f70a79f5bacfc5846a54a326cf940ab8472ba1203e659307a3800",
+    "type": "一手技术/研发资料"
+  }
+]
