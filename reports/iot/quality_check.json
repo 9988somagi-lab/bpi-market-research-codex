@@ -1,0 +1,18 @@
+{
+  "file": "reports/BPI_IoT_Market_Research_2026.pdf",
+  "pages": 32,
+  "bytes": 612536,
+  "sha256": "54f76d15cb173b0ba5295140b71ebb9af534cfafc866423241c075a684422957",
+  "font": "MicrosoftYaHei and MicrosoftYaHei-Bold, embedded subsets",
+  "missing_glyphs": 0,
+  "text_outside_page": 0,
+  "visual_review": "All 32 pages reviewed in four contact sheets; source index overlap corrected.",
+  "scope_checks": [
+    "11 user topics covered",
+    "Forecast and observation years separated",
+    "Share denominators labelled",
+    "No global IoT battery market share invented",
+    "HS proxies labelled, missing quantities not zero-filled",
+    "Particle inconsistent Wh omitted; charging input not battery voltage"
+  ]
+}

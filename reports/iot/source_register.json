@@ -1,0 +1,241 @@
+[
+  {
+    "id": "T_902820_2024_X",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=902820&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 100,
+    "sha256": "a964cda4000f841c271ed03397c6f12ff6181f10ba385cadd88c1817481491bb",
+    "status": 200
+  },
+  {
+    "id": "T_902820_2024_M",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=902820&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 148,
+    "sha256": "1b929e994f377839d56c0af7141411f5e268cf82e87bd422b6d22ccacf4841ee",
+    "status": 200
+  },
+  {
+    "id": "T_902820_2025_X",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=902820&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 84,
+    "sha256": "f2d158856266b5e6742e4216a50ea061a56c8cd4174dab975c34f8ceeca38453",
+    "status": 200
+  },
+  {
+    "id": "T_902820_2025_M",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=902820&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 120,
+    "sha256": "bc1925841c113b1727da75466191c9ee374d5ac64aed2d002f42f794523d946c",
+    "status": 200
+  },
+  {
+    "id": "T_902810_2024_X",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=902810&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 87,
+    "sha256": "8f578ef9344c6239ee322d6f8ba139566992d6e23dc1012facd8479d14b500c7",
+    "status": 200
+  },
+  {
+    "id": "T_902810_2024_M",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=902810&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 142,
+    "sha256": "41b673e2fab4f6f4d0e4b8304561e49c3738fe5d9ba4b51d8af2865910470993",
+    "status": 200
+  },
+  {
+    "id": "T_902810_2025_X",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=902810&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 69,
+    "sha256": "dd8edd6852c0608801dfa1b1c16077dd497eff4cab7293ad3d88ba126077ad00",
+    "status": 200
+  },
+  {
+    "id": "T_902810_2025_M",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=902810&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 112,
+    "sha256": "2dfa00b13f5a68e7802e6ed7679bd5173a84999818ea4be40e04fb28406e8acc",
+    "status": 200
+  },
+  {
+    "id": "T_851762_2024_X",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=851762&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 139,
+    "sha256": "9c568f92350775a56bbad6ee6f0f2f6a8dc124c7d9219480596640c4e51a1a33",
+    "status": 200
+  },
+  {
+    "id": "T_851762_2024_M",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=851762&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 148,
+    "sha256": "69c05f94235cf8e4f6bbce70fe9cdc06276151de4c92a0a9fa93f69f3e214c22",
+    "status": 200
+  },
+  {
+    "id": "T_851762_2025_X",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=851762&flowCode=X&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 116,
+    "sha256": "8b97415e97145c912c1af20c9fe5b31d0d8926da535d0fdb5328074cfe53a66c",
+    "status": 200
+  },
+  {
+    "id": "T_851762_2025_M",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=851762&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "count": 121,
+    "sha256": "9324f748bbffeda88eb0cebb7b692aeaff1807d0f8fe7cb357c543d36d01a013",
+    "status": 200
+  },
+  {
+    "id": "H03",
+    "url": "https://raw.githubusercontent.com/RAKWireless/RAKwireless-Docs/master/docs/Product-Categories/WisNode/RAK7204/Datasheet/README.md",
+    "sha256": "0bc9d6bccc95f7792728bd388e720bf71275d0cbc5201277371cb10d26d3ccf0",
+    "read_date": "2026-10-22",
+    "status": 200,
+    "type": "厂商一手技术资料；未证明销量或份额"
+  },
+  {
+    "id": "H05",
+    "url": "https://raw.githubusercontent.com/RAKWireless/RAKwireless-Docs/master/docs/Product-Categories/WisNode/RAK7200/Datasheet/README.md",
+    "sha256": "91507f4f250a3d30754450ecd0a8fcc3248c8d281fb4b85aff88b655e99b735f",
+    "read_date": "2026-10-22",
+    "status": 200,
+    "type": "厂商一手技术资料；未证明销量或份额"
+  },
+  {
+    "id": "H06",
+    "url": "https://raw.githubusercontent.com/RAKWireless/RAKwireless-Docs/master/docs/Product-Categories/WisNode/RAK2171/Datasheet/README.md",
+    "sha256": "f2be64bd17d8f27d3b310a295668ed2d09e772f151430912c08f8e28caca3f80",
+    "read_date": "2026-10-22",
+    "status": 200,
+    "type": "厂商一手技术资料；未证明销量或份额"
+  },
+  {
+    "id": "H08",
+    "url": "https://raw.githubusercontent.com/RAKWireless/RAKwireless-Docs/master/docs/Product-Categories/WisGate/RAK7268/Datasheet/README.md",
+    "sha256": "0eaa2f589e947101775ae3b260e795d11ffd1ab753e2f87969424a4da7fdfa9d",
+    "read_date": "2026-10-22",
+    "status": 200,
+    "type": "厂商一手技术资料；未证明销量或份额"
+  },
+  {
+    "id": "H09",
+    "url": "https://raw.githubusercontent.com/RAKWireless/RAKwireless-Docs/master/docs/Product-Categories/WisBlock/RAK19007/Datasheet/README.md",
+    "sha256": "4b76e08035c258e9281d151738c1f0e4f154837caa10184ef1dbca8f4411a6e4",
+    "read_date": "2026-10-22",
+    "status": 200,
+    "type": "厂商一手技术资料；未证明销量或份额"
+  },
+  {
+    "id": "H11",
+    "url": "https://raw.githubusercontent.com/particle-iot/docs/master/src/content/reference/datasheets/tracker/tracker-one.md",
+    "sha256": "ccab6e1402ffae8126869bcd6c03924272b255f9452c9ea6f6ced91c0223d53a",
+    "read_date": "2026-10-22",
+    "status": 200,
+    "type": "厂商一手技术资料；未证明销量或份额"
+  },
+  {
+    "id": "H13",
+    "url": "https://raw.githubusercontent.com/particle-iot/docs/master/src/content/hardware/power/batteries.md",
+    "sha256": "709c9ad9d6d7265c1c14a6d7479223b12fa47f307f9a75c0db7e9e7ed9563ec4",
+    "read_date": "2026-10-22",
+    "status": 200,
+    "type": "厂商一手技术资料；未证明销量或份额"
+  },
+  {
+    "id": "H14",
+    "url": "https://raw.githubusercontent.com/RAKWireless/RAKwireless-Docs/master/docs/Product-Categories/Accessories/RAK9154/Datasheet/README.md",
+    "sha256": "f6fd2d1aab4464693dcdccb924fd75e0e217fddf3f0845a7e419e6e34ff91ca9",
+    "read_date": "2026-10-22",
+    "status": 200,
+    "type": "厂商一手技术资料；未证明销量或份额"
+  },
+  {
+    "id": "H15",
+    "url": "https://raw.githubusercontent.com/RAKWireless/RAKwireless-Docs/master/docs/Product-Categories/Accessories/RAK9155/Datasheet/README.md",
+    "sha256": "ba522fee1fce762764bd487b242c1e492946cdf5e7652f9c86ba609ae615a22c",
+    "read_date": "2026-10-22",
+    "status": 200,
+    "type": "厂商一手技术资料；未证明销量或份额"
+  },
+  {
+    "id": "E01",
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/isoc_eb_iot?lang=EN",
+    "year": 2021,
+    "sha256": "64f54178035e2423f7b6a5b34273b43ee4ff8c8e6e55ddcf06ef801de658f9f8",
+    "read_date": "2026-10-22",
+    "type": "Eurostat历史企业IoT采用率；不是当前市场份额"
+  },
+  {
+    "id": "G01",
+    "url": "https://iot-analytics.com/number-connected-iot-devices/",
+    "read_date": "2026-10-22",
+    "sha256": "f611baf6de29614431854904bcfbaedc80ebaf6aa43f9915d4f7902cbc8cb9f7",
+    "type": "公开研究原文；具体分母与预测期见图表"
+  },
+  {
+    "id": "G02",
+    "url": "https://www.ericsson.com/en/reports-and-papers/mobility-report/dataforecasts/iot-connections-outlook",
+    "read_date": "2026-10-22",
+    "sha256": "9b904c0978e75a96a929f74ee78c2064097e2782bba235dfaf42b27c343fb2a8",
+    "type": "公开研究原文；具体分母与预测期见图表"
+  },
+  {
+    "id": "G03",
+    "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/",
+    "read_date": "2026-10-22",
+    "sha256": "558198536e5903a55c951961d506593099799406c72e6299a96ea270d15d0406",
+    "type": "公开研究原文；具体分母与预测期见图表"
+  },
+  {
+    "id": "G04",
+    "url": "https://iot-analytics.com/iot-market-data/global-iot-enterprise-spending/",
+    "read_date": "2026-10-22",
+    "sha256": "d57341ec2ff72dd05a461f8739e2ad29ec690e96dc4d8f5c750750ebe29a9166",
+    "type": "公开研究原文；具体分母与预测期见图表"
+  },
+  {
+    "id": "G05",
+    "url": "https://iot-analytics.com/iot-market-data/cellular-iot-module-chipset-market-tracker-forecast/",
+    "read_date": "2026-10-22",
+    "sha256": "489601e88b918de1d750f71b39762381f678aad034bfd8dc3d1417e6cae29573",
+    "type": "公开研究原文；具体分母与预测期见图表"
+  },
+  {
+    "id": "G07",
+    "url": "https://iot-analytics.com/cellular-iot-market-update-spring-2026/",
+    "read_date": "2026-10-22",
+    "sha256": "9b54be7fe9596a49b204575a2f51f749db26d1c57afd51459fc64605c7d45dce",
+    "type": "公开研究原文；具体分母与预测期见图表"
+  },
+  {
+    "id": "G08",
+    "url": "https://iot-analytics.com/cellular-iot-market-q1-2025-module-shipments-23-percent-us-china-tensions-vendor-impact/",
+    "read_date": "2026-10-22",
+    "sha256": "28c427ebd13e170b1ce0dd9636ff78d1f10535984b2aadcf24dca5d9689841b7",
+    "type": "公开研究原文；具体分母与预测期见图表"
+  },
+  {
+    "id": "G09",
+    "url": "https://iot-analytics.com/asset-tracking-evolution-locating-assets-to-optimizing-operations/",
+    "read_date": "2026-10-22",
+    "sha256": "28faada5b1d5e5fedac3657d284fde4bad7c3db025ddfa4a75722513dea107bd",
+    "type": "公开研究原文；具体分母与预测期见图表"
+  },
+  {
+    "id": "G10",
+    "url": "https://iot-analytics.com/iot-market-size/",
+    "read_date": "2026-10-22",
+    "sha256": "c4f23ed45f190a960a0158f1e684382d5c715d5ba71d8c4db6d400ba3ec7ea02",
+    "type": "公开研究原文；具体分母与预测期见图表"
+  }
+]
