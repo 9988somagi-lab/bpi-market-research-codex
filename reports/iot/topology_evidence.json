@@ -1,0 +1,20 @@
+{
+  "RAK9155": {
+    "source": "H15",
+    "quote": "The battery system consists of 4 pcs of 50 Ah cells connected in serial and a 1pcs 12V solar charger.",
+    "conclusion": "4S1P confirmed; 4 cells, 12.8V 50Ah 640Wh"
+  },
+  "RAK9154": {
+    "source": "H14",
+    "quote": "The battery system consists of two groups of 2600&nbsp;mAh cells connected in serial",
+    "conclusion": "Ambiguous relative to 10.8V / 5.2Ah table. 3S2P is an engineering candidate, not confirmed vendor topology."
+  },
+  "Particle": {
+    "sources": [
+      "H13",
+      "B01"
+    ],
+    "quote": "The Fuel Gauge (battery monitor) is only designed for a single cell",
+    "conclusion": "Single-cell platform. Model 1S1P is a reference; do not infer every compatible pack internal P."
+  }
+}

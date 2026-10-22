@@ -1,2 +1,4 @@
 *.pdf binary
 *.xlsx binary
+# Preserve original evidence snapshots without normalizing whitespace.
+reports/iot/sources/* -whitespace

@@ -1,0 +1,198 @@
+{
+  "status": "Illustrative conditional scenarios, NOT observed IoT battery shipments or a validated market forecast",
+  "connection_source": "G07",
+  "connection_unit": "billion",
+  "connection_anchors": {
+    "2025_estimate": 4.7,
+    "2026_forecast": 5.4,
+    "2030_forecast": 9.2
+  },
+  "interpolation_rate_2026_2030": 0.14247976517314354,
+  "annual_new_install": [
+    {
+      "year": 2026,
+      "connections_billion": 5.4,
+      "connection_status": "G07 forecast",
+      "delta_connections_billion": 0.7000000000000002,
+      "new_packs_million_b10pct": 70.00000000000003,
+      "new_packs_million_sensitivity": {
+        "0.05": 35.000000000000014,
+        "0.1": 70.00000000000003,
+        "0.2": 140.00000000000006
+      }
+    },
+    {
+      "year": 2027,
+      "connections_billion": 6.169390731934976,
+      "connection_status": "author interpolation, not agency forecast",
+      "delta_connections_billion": 0.7693907319349753,
+      "new_packs_million_b10pct": 76.93907319349753,
+      "new_packs_million_sensitivity": {
+        "0.05": 38.46953659674877,
+        "0.1": 76.93907319349753,
+        "0.2": 153.87814638699507
+      }
+    },
+    {
+      "year": 2028,
+      "connections_billion": 7.048404074682439,
+      "connection_status": "author interpolation, not agency forecast",
+      "delta_connections_billion": 0.8790133427474629,
+      "new_packs_million_b10pct": 87.9013342747463,
+      "new_packs_million_sensitivity": {
+        "0.05": 43.95066713737315,
+        "0.1": 87.9013342747463,
+        "0.2": 175.8026685494926
+      }
+    },
+    {
+      "year": 2029,
+      "connections_billion": 8.052659032088622,
+      "connection_status": "author interpolation, not agency forecast",
+      "delta_connections_billion": 1.0042549574061832,
+      "new_packs_million_b10pct": 100.42549574061832,
+      "new_packs_million_sensitivity": {
+        "0.05": 50.21274787030916,
+        "0.1": 100.42549574061832,
+        "0.2": 200.85099148123663
+      }
+    },
+    {
+      "year": 2030,
+      "connections_billion": 9.200000000000001,
+      "connection_status": "G07 forecast",
+      "delta_connections_billion": 1.1473409679113793,
+      "new_packs_million_b10pct": 114.73409679113793,
+      "new_packs_million_sensitivity": {
+        "0.05": 57.367048395568965,
+        "0.1": 114.73409679113793,
+        "0.2": 229.46819358227586
+      }
+    }
+  ],
+  "architectures": [
+    {
+      "id": "LiPo 1S1P reference",
+      "status": "engineering reference using B01 voltage/capacity; 1P is model assumption",
+      "S": 1,
+      "P": 1,
+      "cell_V": 3.7,
+      "cell_Ah": 1.8,
+      "cells_per_pack": 1,
+      "pack_V": 3.7,
+      "pack_Ah": 1.8,
+      "pack_Wh": 6.66,
+      "batch_cells": 100000,
+      "batch_MWh": 0.666
+    },
+    {
+      "id": "Li-ion 3S2P example",
+      "status": "engineering example, NOT confirmed RAK9154 topology",
+      "S": 3,
+      "P": 2,
+      "cell_V": 3.6,
+      "cell_Ah": 2.6,
+      "cells_per_pack": 6,
+      "pack_V": 10.8,
+      "pack_Ah": 5.2,
+      "pack_Wh": 56.160000000000004,
+      "batch_cells": 600000,
+      "batch_MWh": 5.616
+    },
+    {
+      "id": "LFP 4S1P RAK9155",
+      "status": "confirmed H15: four 50Ah cells in series",
+      "S": 4,
+      "P": 1,
+      "cell_V": 3.2,
+      "cell_Ah": 50,
+      "cells_per_pack": 4,
+      "pack_V": 12.8,
+      "pack_Ah": 50,
+      "pack_Wh": 640.0,
+      "batch_cells": 400000,
+      "batch_MWh": 64.0
+    },
+    {
+      "id": "LFP 4S2P example",
+      "status": "engineering alternative, NOT RAK9155 actual configuration",
+      "S": 4,
+      "P": 2,
+      "cell_V": 3.2,
+      "cell_Ah": 25,
+      "cells_per_pack": 8,
+      "pack_V": 12.8,
+      "pack_Ah": 50,
+      "pack_Wh": 640.0,
+      "batch_cells": 800000,
+      "batch_MWh": 64.0
+    }
+  ],
+  "same_batch_packs": 100000,
+  "effective_battery_factor_scenarios": [
+    0.05,
+    0.1,
+    0.2
+  ],
+  "effective_battery_factor_definition": "Net packs per net added cellular connection; embeds device/connection mapping and battery incidence. Pure hypothetical sensitivity values.",
+  "replacement_cohort": {
+    "active_packs": 100000,
+    "new_locations_per_year": 10000,
+    "assumed_lifetime_years": [
+      1,
+      3,
+      5
+    ],
+    "method": "steady-state age distribution, replacement only once; no double counting equipment replacement"
+  },
+  "portfolio": {
+    "status": "hypothetical purchasing mix, NOT market shares",
+    "pack_counts": [
+      80000,
+      15000,
+      5000
+    ],
+    "architectures": [
+      "LiPo 1S1P reference",
+      "Li-ion 3S2P example",
+      "LFP 4S1P RAK9155"
+    ]
+  },
+  "new_install_cagr_2026_2030_b10pct": 0.13148451633903213,
+  "mix_growth_scenario": {
+    "status": "Hypothetical portfolio evolution, not BPI plan or market forecast",
+    "base_label": "2026S",
+    "future_label": "2030S",
+    "base_pack_counts": [
+      80000,
+      15000,
+      5000
+    ],
+    "future_pack_counts": [
+      105000,
+      30000,
+      15000
+    ],
+    "years": 4,
+    "base": {
+      "packs": 100000,
+      "cells": 190000,
+      "MWh": 4.5752
+    },
+    "future": {
+      "packs": 150000,
+      "cells": 345000,
+      "MWh": 11.9841
+    },
+    "growth_pct": {
+      "packs": 50.0,
+      "cells": 81.57894736842107,
+      "MWh": 161.9360902255639
+    },
+    "cagr_pct": {
+      "packs": 10.668191970032147,
+      "cells": 16.08239865893859,
+      "MWh": 27.21807951823525
+    }
+  }
+}

@@ -1,3 +1,9 @@
+## 2026海外物联网（IoT）市场研究 · V3电池需求增强版
+
+- [下载58页V3 PDF](BPI_IoT_Market_Research_2026_V3.pdf)：电池重点第29–41页，新增串并联、包/颗/能量需求、一次锂贸易同比、未来条件情景与替换需求。
+- [研究与模型说明](iot/README.md) · [证据及公式工作簿](BPI_IoT_Market_Research_2026_Evidence.xlsx) · [自查](iot/quality_check.json)
+- 事实与假设分别标识；未来数量不是全球IoT电池已验证预测。2026-10-22。
+
 ## 2026海外物联网（IoT）市场调研报告 · V2
 
 - [下载44页PDF重制版](BPI_IoT_Market_Research_2026_V2.pdf)：微软雅黑嵌入；需求量、增长量、份额、应用、厂商、贸易、电池与行动计划，34项来源。2026-10-22。

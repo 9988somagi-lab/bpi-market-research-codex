@@ -1,0 +1,360 @@
+
+      Material Safety Data Sheet    
+ 
+ REPORT NO.: LCS190102053ASD 
+                                                                                                       
+            SHENZHEN LCS COMPLIANCE TESTING LABORATORY LTD.                  Page 2 of 7 
+* The MSDS is prepared based on the information provided by client. The contents and formats of this MSDS are revised as per 
+client's request. 
+Section 1-Chemical Product and Company Identification 
+Product Name 
+Li-Polymer Battery 
+Model 
+ZN-103450  
+Trade Mark 
+ZN 
+Ratings 
+3.7V, 1800mAh, 6.66Wh 
+Weight 
+32.7g 
+Manufacturer 
+Foshan Zhaoneng Battery Industrial Co., Ltd. 
+Manufacturer 
+address 
+No.8, Nanda Road, Jinsha Chengnan Industrial Zone, Danzao Town, Nanhai District, 
+Guangdong, China 
+Emergency Telephone 
++86-757-81289786 
+Fax 
++86-757-81289787 
+Section 2- Composition Information 
+Material or ingredient 
+Chemical Formula 
+CAS No. 
+Weight (%) 
+  
+LITHIUM COBALT(III) 
+OXIDE 
+CoLiO2 
+12190-79-3 
+41.3 
+ Graphite 
+C24X12 
+7782-42-5 
+25.3 
+NMP 
+C5H9NO 
+872-50-4 
+0.5 
+PVDF 
+C2H2F2 
+24937-79-9 
+2 
+Lithium 
+hexafluorophosphate 
+ 
+LiPF6 
+21324-40-3 
+1 
+Dimethyl carbonate 
+C3H6O3 
+616-38-6 
+16.3 
+Copper Foil 
+Cu 
+7440-50-8 
+9.0 
+Aluminum Foil 
+Al 
+7429-90-5 
+4.6 
+Section 3- Hazards Identification 
+Emergency overview: 
+N/A 
+Classification according to GHS 
+Not a dangerous substance according to GHS 
+Label elements: 
+Hazard pictogram(s) 
+No available 
+
+      Material Safety Data Sheet    
+ 
+ REPORT NO.: LCS190102053ASD 
+                                                                                                       
+            SHENZHEN LCS COMPLIANCE TESTING LABORATORY LTD.                  Page 3 of 7 
+Signal word 
+No available 
+Hazard statement(s) 
+No available 
+Precautionary statement(s): 
+Prevention 
+No available 
+Response 
+No available 
+Disposal 
+No available 
+Environmental hazards: 
+No relevant information 
+Important symptoms: 
+See section 11 for more information 
+Section 4- First Aid Measures 
+Eye contact 
+Flush eyes with plenty of water for least 15 minutes, occasionally lifting the 
+upper and lower eyelids. Get medical aid. 
+Skin contact 
+Remove contaminated clothes and rinse skin with plenty of water or shower 
+for 15 minutes. Get medical aid. 
+Inhalation 
+Remove from exposure and move to fresh air immediately. Use oxygen if 
+available. 
+Ingestion 
+Give at least 2 glasses of milk or water. Induce vomiting unless patient is 
+unconscious. Call a physician. 
+Section 5- Fire Fighting Measures 
+Flash Point 
+N/A 
+Auto-lgnition Temperature 
+N/A 
+Extinguishing Media 
+H2O, CO2 
+Special Fire-Fighting Procedures 
+Self-contained breathing apparatus 
+Unusual Fire and Explosion 
+Hazards 
+Cell may vent when subjected to excessive heat-exposing battery contents 
+Hazardous Combustion Products 
+Carbon monoxide, carbon dioxide, lithium oxide fumes. 
+Section 6- Accidental Release Measures 
+Personal precautions, protective equipment and emergency procedures: 
+If the battery is released, remove personnel from area until fumes dissipate. Provide maximum ventilation to clear 
+out hazardous gases. The preferred response is to leave the area and allow the vapors to dissipate. Avoid skin and 
+eyes contact or inhalation of vapors. Remove spilled liquid with absorbent and incinerated. If leakage of the battery 
+happens, liquid could be absorbed with sand, earth or other inert substance and contaminated area should be 
+ventilated meantime.  
+
+      Material Safety Data Sheet    
+ 
+ REPORT NO.: LCS190102053ASD 
+                                                                                                       
+            SHENZHEN LCS COMPLIANCE TESTING LABORATORY LTD.                  Page 4 of 7 
+Environment precautions:  
+Do not allow product to reach sewage system or any water source. 
+Inform respective authorities in case of seepage into water course or sewage system. 
+Do not allow to enter sewers/ surface or ground water. 
+Methods and material for containment and cleaning up: 
+If battery casing is dismantled, small amounts of electrolyte may leak. Collect all released material in a plastic lined 
+container. Dispose off according to the local law and rules. Avoid leached substances to get into the earth, 
+canalization or waters. 
+ 
+Section 7- Handling and Storage 
+Handling 
+The battery should not be opened, destroyed or incinerate, since they may 
+leak or rupture and release to the environment the ingredients that they 
+contain in the hermetically sealed container. 
+Do not short circuit terminals, or over charge the battery, forced 
+over-discharge, throw to fire. 
+Do not crush or puncture the battery, or immerse in liquids. 
+Storage 
+Avoid mechanical or electrical abuse. Storage preferably in cool, dry and 
+ventilated area, which is subject to little temperature change. Storage at high 
+temperatures should be avoided.  
+Do not place the battery near heating equipment, nor expose to direct 
+sunlight for long periods.  
+Other Precautions 
+The battery may explode or cause burns, if disassembled, crushed or 
+exposed to fire or high temperatures. Do not short or install with incorrect 
+polarity. 
+Section 8- Exposure Controls/Personal Protection 
+Engineering Controls 
+Use local exhaust ventilation or other engineering controls to control sources 
+of dust, mist, fumes and vapor. 
+Keep away from heat and open flame. Store in a cool, dry place. 
+Personal Protective Equipment 
+Respiratory Protection: Not necessary under normal conditions. 
+Skin and body Protection: Not necessary under normal conditions, Wear 
+suitable protective clothing and gloves if handling an open or leaking battery. 
+Hand protection: Wear suitable gloves if handling an open or leaking battery. 
+Eye Protection: Not necessary under normal conditions, Wear safety glasses 
+if handling an open or leaking battery. 
+Other Protective Equipment 
+Have a safety shower and eye wash fountain readily available in the 
+immediate work area. 
+Hygiene Measures 
+Do not eat, drink, or smoke in work area. Maintain good housekeeping. 
+Section 9- Physical and Chemical Properties 
+Form 
+Solid 
+Color 
+Silver 
+
+      Material Safety Data Sheet    
+ 
+ REPORT NO.: LCS190102053ASD 
+                                                                                                       
+            SHENZHEN LCS COMPLIANCE TESTING LABORATORY LTD.                  Page 5 of 7 
+Odour 
+No available 
+pH 
+No available 
+Melting point/freezing point 
+No available 
+Boiling Point and Boiling range 
+No available 
+Flash Point 
+No available 
+Upper/lower flammability or 
+explosive limits 
+No available 
+Vapor Pressure 
+No available 
+Vapor Density 
+No available 
+Relative density 
+No available 
+Solubility in Water 
+No available 
+Auto-ignition temperature 
+No available 
+Decomposition temperature 
+No available 
+Evaporation rate 
+No available 
+Flammability (soil, gas) 
+No available 
+Viscosity 
+No available 
+Section 10- Stability and reactivity 
+Stability 
+The product is stable under conditions described Section 7 
+Conditions to Avoid 
+Heat above 70°C or incinerate. Deform, Mutilate, Crush, Disassemble, 
+Overcharge, Short circuit, Expose over a long period to humid conditions. 
+Incompatible Materials 
+Oxidizing agents, acid, base. 
+Hazardous Decomposition 
+Products 
+Carbon monoxide, carbon dioxide, lithium oxide fumes. 
+Possibility of Hazardous 
+Reaction 
+Not Available 
+Section 11 – Toxicological Information 
+Irritation 
+Risk of irritation occurs only if the cell is mechanically, thermally or electrically 
+abused to the point of compromising the enclosure. If this occurs, irritation to 
+the skin, eyes and respiratory tract may occur. 
+Sensitization 
+Not Available 
+Neurological Effects 
+Not Available 
+
+      Material Safety Data Sheet    
+ 
+ REPORT NO.: LCS190102053ASD 
+                                                                                                       
+            SHENZHEN LCS COMPLIANCE TESTING LABORATORY LTD.                  Page 6 of 7 
+Teratogenicity 
+Not Available 
+Reproductive Toxicity 
+Not Available 
+Mutagenicity (Genetic Effects) 
+Not Available 
+Toxicologically Synergistic 
+Materials 
+Not Available 
+ 
+Section 12- Ecological Information 
+Ecological Toxicity 
+Not Available 
+Mobility in soil 
+Not Available 
+Persistence and Degradability 
+Not Available 
+Bioaccumulation potential 
+Not Available 
+Other Adverse Effects 
+Not Available 
+Section 13- Disposal Considerations 
+Product disposal 
+recommendation 
+Observe local, state and federal laws and regulations. 
+Uncleaned packaging 
+recommendation 
+Disposal must be made according to official regulations 
+Section 14 – Transport Information 
+Label for conveyance 
+Lithium Battery Label 
+UN Number 
+UN 3480 or UN 3481 
+Transport hazard class(es) 
+9 
+Packing group 
+-- 
+Marine pollutant 
+No 
+UN Proper shipping name 
+Lithium ion Batteries (Including lithium ion polymer batteries) 
+Lithium ion Batteries packed with equipment (Including lithium ion polymer 
+batteries) 
+Lithium ion Batteries contained in equipments (Including lithium ion polymer 
+batteries) 
+Transport information: 
+Li-Polymer Battery (Sample Model: ZN-103450 ) is tested and has passed in accordance with UN manual of Tests 
+and Criteria, Part III, subsection 38.3. 
+The goods shall be complied with the requirements of Section IB~II of Packing Instruction 965 or of Section II of 
+Packing Instruction 966 967 of 60th DGR Manual of IATA or special provision 188 of IMDG CODE (Amdt. 39-18).  
+ 
+Separate Lithium-ion batteries when shipping to prevent short-circuiting. They should be packed in strong packaging 
+for support during transport, ensure that the goods will not falling, dropping, and breakage, Prevent collapse of cargo 
+
+      Material Safety Data Sheet    
+ 
+ REPORT NO.: LCS190102053ASD 
+                                                                                                       
+            SHENZHEN LCS COMPLIANCE TESTING LABORATORY LTD.                  Page 7 of 7 
+piles and wet by rain. 
+ 
+Transport Fashion: By air, by sea, by railway, by road. 
+ 
+ 
+ 
+Section 15- Regulatory information 
+Law information 
+《Dangerous Goods Regulations》 
+《Recommendation on the Transport of Dangerous Goods Model Regulations》 
+《International Maritime Dangerous Goods》 
+《Technical Instructions for the Safe Transport of Dangerous Goods》 
+《Classification and code of dangerous Goods》 
+《Occupational Safety and Health Act》(OSHA) 
+《Toxic Substance Control Act》(TSCA) 
+《Consumer Product Safety Act》(CPSA) 
+《Federal Environmental Pollution Control Act》(FEPCA) 
+《The Oil Pollution Act》(OPA) 
+《Superfund Amendments and Reauthorization Act Title III (302/311/312/313)》(SARA) 
+《Resource Conservation and Recovery Act》(RCRA) 
+《Safety Drinking Water Act》(CWA) 
+《California Proposition 65》 
+《Code of Federal Regulations》(CFR) 
+In according with all Federal, State and local laws. 
+ 
+Section 16- Other Information 
+ 
+The information above is believed to be accurate and represents the best information currently available to us. 
+However, concorde makes no warranty of merchantability or any other warranty, express or implied, with respect to 
+such information, and we assume no liability resulting from its use. Users should make their own investigations to 
+determine the suitability of the information for their particular purposes. Although reasonable precautions have been 
+taken in the preparation of the data contained herein, it is offered solely for your information, consideration and 
+investigation. This material safety data sheet provides guidelines for the safe handling and use of this product; it 
+does not and cannot advise on all possible situations, therefore, your specific use of this product should be 
+evaluated to determine if additional precautions are required.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  -- End of Report -- 

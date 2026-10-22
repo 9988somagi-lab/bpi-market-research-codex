@@ -258,5 +258,37 @@
     "read_date": "2026-10-22",
     "sha256": "97d8f3f1c4ff042ef5a7f93fe7c665634fe718aab8ee4449b7d48448e4d1e6e2",
     "status": 200
+  },
+  {
+    "id": "B01",
+    "url": "https://raw.githubusercontent.com/particle-iot/docs/master/src/assets/pdfs/ZN-103450-MSDS.pdf",
+    "read_date": "2026-10-22",
+    "sha256": "e3725096a21bb9ded3c14b3053277147792ed94882e23bef2c01f27967654751",
+    "status": 200,
+    "bytes": 479433
+  },
+  {
+    "id": "T_850650_2024_M",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&cmdCode=850650&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "sha256": "1681c004485b4e4bd959194fde2da1d0f401e3a60d8bd059de3d99cb39673172",
+    "status": 200,
+    "bytes": 133227
+  },
+  {
+    "id": "T_850650_2025_M",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&cmdCode=850650&flowCode=M&partnerCode=0&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500",
+    "read_date": "2026-10-22",
+    "sha256": "dbd97f2a8e15ec7abb1b0cc6a9c8555673f5eb1d635e12d940c82dc0ab67c82e",
+    "status": 200,
+    "bytes": 109654
+  },
+  {
+    "id": "M01",
+    "url": "https://github.com/9988somagi-lab/bpi-market-research-codex/blob/main/reports/iot/battery_demand_model.json",
+    "read_date": "2026-10-22",
+    "type": "BPI作者计算：工程BOM与纯条件情景；不是外部市场统计或经验证需求预测",
+    "created_date": "2026-10-22",
+    "sha256": "dfd240b61818bcd26c4474421c49aa654d786d165dfec4bbf2e8b1b6facaae5a"
   }
 ]
