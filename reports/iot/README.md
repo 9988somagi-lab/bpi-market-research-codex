@@ -1,6 +1,8 @@
 # BPI海外IoT市场研究（2026）
 
-主报告：[32页PDF](../BPI_IoT_Market_Research_2026.pdf)。字体为嵌入的微软雅黑，约0.61MB。配套工作簿：[证据数据](../BPI_IoT_Market_Research_2026_Evidence.xlsx)。
+主报告：[44页V2 PDF](../BPI_IoT_Market_Research_2026_V2.pdf)。字体为嵌入的微软雅黑，约0.78MB。配套工作簿：[证据数据](../BPI_IoT_Market_Research_2026_Evidence.xlsx)。
+
+V2于2026-10-22重制，主线覆盖完整物联网价值链；增加六大应用、企业规模、全链条厂商、国家比较与产品实物，改进管理目标和PDF书签。
 
 报告覆盖全球规模/增长、区域、应用、厂商份额、需求趋势、电池实例、LiPo/LiFePO4/组包机会、贸易、客户画像、进入策略及30/90/180天计划。包含连接量、同比指数、技术/厂商份额、贸易金额与数量、容量能量对比。
 
@@ -10,10 +12,12 @@
 
 UN Comtrade比较H6编码902820、902810、851762，伙伴为世界，按本次实际返回国家；三者均不是纯IoT编码。数量对比筛选单位代码5、估算标志为假的正值；API其他状态字段保留。2025数据仍可能补报修订。原始CSV保留所有返回分类，evidence.json为筛选后的H6国家记录。
 
-- source_register.json：31条来源、完整URL、读取日期与哈希。
+- source_register.json：34条来源、完整URL、读取日期与哈希。
 - chart_data.json / page_manifest.json：逐页数据与说明。
 - evidence.json / trade_raw.csv：整理证据与原始贸易记录。
 - report.md：内容检索版。
 - quality_check.json / pdf_checks.json：文件、字体、缺字、边界及视觉自查。
 
 字体源文件不分发。电池规格为厂商产品示例，不代表行业销量或典型容量分布。BPI建议与外部事实分列。
+
+自查：41个内容页均含图表、表格、流程图或实物图；3页来源附录。44个PDF书签。详细11项要求页码映射见quality_check.json。新增官方网页快照在sources/中，所有来源完整URL见source_register.json。

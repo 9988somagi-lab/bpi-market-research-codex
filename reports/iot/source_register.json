@@ -237,5 +237,26 @@
     "read_date": "2026-10-22",
     "sha256": "c4f23ed45f190a960a0158f1e684382d5c715d5ba71d8c4db6d400ba3ec7ea02",
     "type": "公开研究原文；具体分母与预测期见图表"
+  },
+  {
+    "id": "V01",
+    "url": "https://learn.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub",
+    "read_date": "2026-10-22",
+    "sha256": "30a764f53b626629e3673c4b4ba70f232d9bb7dd6007fd3a79602d41fde6e2ee",
+    "status": 200
+  },
+  {
+    "id": "V03",
+    "url": "https://wiki.teltonika-gps.com/view/TAT240_General_description",
+    "read_date": "2026-10-22",
+    "sha256": "3b8a5d6c1d681ce40767b7f4482626caa8444abebdd1e459550b5b8cc72eb9d5",
+    "status": 200
+  },
+  {
+    "id": "V04",
+    "url": "https://www.nordicsemi.com/Products/nRF9160",
+    "read_date": "2026-10-22",
+    "sha256": "97d8f3f1c4ff042ef5a7f93fe7c665634fe718aab8ee4449b7d48448e4d1e6e2",
+    "status": 200
   }
 ]

@@ -1,12 +1,13 @@
 {
   "file": "reports/BPI_IoT_Market_Research_2026.pdf",
-  "pages": 32,
-  "bytes": 612536,
-  "sha256": "54f76d15cb173b0ba5295140b71ebb9af534cfafc866423241c075a684422957",
+  "pages": 44,
+  "version": "V2, rebuilt around the full IoT value chain and six application groups",
+  "bytes": 783066,
+  "sha256": "fed4543338611bbac6af24bcc5ff89a249bf5eb8f24d19a6730c0c1df40b69b8",
   "font": "MicrosoftYaHei and MicrosoftYaHei-Bold, embedded subsets",
   "missing_glyphs": 0,
   "text_outside_page": 0,
-  "visual_review": "All 32 pages reviewed in four contact sheets; source index overlap corrected.",
+  "visual_review": "All 44 pages reviewed in six contact sheets; source index overlap corrected.",
   "scope_checks": [
     "11 user topics covered",
     "Forecast and observation years separated",
@@ -14,5 +15,34 @@
     "No global IoT battery market share invented",
     "HS proxies labelled, missing quantities not zero-filled",
     "Particle inconsistent Wh omitted; charging input not battery voltage"
-  ]
+  ],
+  "versioned_file": "reports/BPI_IoT_Market_Research_2026_V2.pdf",
+  "bookmarks": 44,
+  "content_pages": 41,
+  "source_appendix_pages": 3,
+  "sources": 34,
+  "visual_elements_on_content_pages": 41,
+  "share_totals_verified": true,
+  "min_page_characters": 502,
+  "corrections": [
+    "Shortened awkward title wrap",
+    "Moved export quantity comparison into trade section",
+    "Separated long source IDs and URLs",
+    "Consolidated appendix to 3 balanced pages",
+    "Added navigation and PDF bookmarks",
+    "Translated country labels"
+  ],
+  "coverage": {
+    "1 全球规模与增长": "5–16页",
+    "2 国家和区域": "15–16、29–35页",
+    "3 应用场景": "17–21、24、36页",
+    "4 厂商": "11–13、23页",
+    "5 出货或需求趋势": "5–10、22、34–35页",
+    "6 电池类型电压容量": "25–28、36页",
+    "7 LiPo/LFP/电池组机会": "24–28、36、38–39页",
+    "8 进出口及贸易国家": "29–35页",
+    "9 客户画像": "19、37页",
+    "10 BPI策略": "30、38–39、41页",
+    "11 行动计划": "40页"
+  }
 }

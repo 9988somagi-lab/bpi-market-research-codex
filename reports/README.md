@@ -1,3 +1,9 @@
+## 2026海外物联网（IoT）市场调研报告 · V2
+
+- [下载44页PDF重制版](BPI_IoT_Market_Research_2026_V2.pdf)：微软雅黑嵌入；需求量、增长量、份额、应用、厂商、贸易、电池与行动计划，34项来源。2026-10-22。
+- [配套证据工作簿](BPI_IoT_Market_Research_2026_Evidence.xlsx) · [研究说明与数据](iot/README.md) · [自查结果](iot/quality_check.json)
+- 原固定路径 `BPI_IoT_Market_Research_2026.pdf` 已同步更新为同一重制版。
+
 # BPI 2026 海外具身机器人市场研究
 
 更新：2026-10-13（北京时间）。本版取代此前缺少定量数据的战略审议版。
